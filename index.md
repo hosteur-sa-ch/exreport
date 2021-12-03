@@ -1,14 +1,13 @@
-﻿## Exchange Hosteur Security Report
+## Exchange Hosteur Security Report
 Dernier rapport de securité de la plateforme Exchange Hosteur
 
+## Frontend Services
 ![logo](img/logo-hosteur_2021.png)
 
-## Frontend Services
-
 Exchange Information
 --------------------
-	Name: Frontend FRD-C
-	Generation Time: 12/03/2021 15:01:54
+	Name: Frontend FRD-AX223511
+	Generation Time: 12/03/2021 16:20:18
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.014
 	Exchange IU or Security Hotfix Detected.
@@ -20,8 +19,8 @@ Security Vulnerability
 
 Exchange Information
 --------------------
-	Name: Frontend FRD-A
-	Generation Time: 12/03/2021 14:34:31
+	Name: Frontend FRD-AX225331
+	Generation Time: 12/03/2021 16:13:14
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.014
 	Exchange IU or Security Hotfix Detected.
@@ -33,8 +32,8 @@ Security Vulnerability
 
 Exchange Information
 --------------------
-	Name: Frontend FRD-D
-	Generation Time: 12/03/2021 15:08:41
+	Name: Frontend FRD-AX223512
+	Generation Time: 12/03/2021 16:26:35
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.005
 Security Vulnerability
@@ -58,8 +57,8 @@ Security Vulnerability
 
 Exchange Information
 --------------------
-	Name: Frontend FRD-B
-	Generation Time: 12/03/2021 15:02:54
+	Name: Frontend FRD-AX225332
+	Generation Time: 12/03/2021 16:14:12
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.014
 	Exchange IU or Security Hotfix Detected.
