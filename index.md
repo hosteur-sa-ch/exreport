@@ -1,6 +1,8 @@
 ﻿## Exchange Hosteur Security Report
 Dernier rapport de securité de la plateforme Exchange Hosteur
 
+![logo](img/logo-hosteur_2021.png)
+
 ## Frontend Services
 
 Exchange Information
