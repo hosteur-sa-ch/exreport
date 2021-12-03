@@ -1,5 +1,5 @@
-## Exchange Hosteur Security Report
-Dernier rapport de securit� de la plateforme Exchange Hosteur
+﻿## Exchange Hosteur Security Report
+Dernier rapport de securité de la plateforme Exchange Hosteur
 
 ## Frontend Services
 
