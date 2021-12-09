@@ -6,45 +6,53 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 
 ### Exchange Information
 	Name: Frontend FRD-AX223511
-	Generation Time: 12/04/2021 11:56:07
+	Generation Time: 12/09/2021 08:09:16
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.014
 	Exchange IU or Security Hotfix Detected.
 		Security Update for Exchange Server 2019 Cumulative Update 11 (KB5007409)
+
 #### Security Vulnerability
-	All known security issues in this version of the script passed.
+	Security Vulnerability: Download Domains are not configured. You should configure them to be protected against CVE-2021-1730.
+		Configuration instructions: https://aka.ms/HC-DownloadDomains
 
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX225331
-	Generation Time: 12/04/2021 11:48:57
+	Generation Time: 12/09/2021 08:01:30
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.014
 	Exchange IU or Security Hotfix Detected.
 		Security Update for Exchange Server 2019 Cumulative Update 11 (KB5007409)
+
 #### Security Vulnerability
-	All known security issues in this version of the script passed.
+	Security Vulnerability: Download Domains are not configured. You should configure them to be protected against CVE-2021-1730.
+		Configuration instructions: https://aka.ms/HC-DownloadDomains
 
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX223512
-	Generation Time: 12/04/2021 12:02:19
+	Generation Time: 12/09/2021 08:15:50
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.014
 	Exchange IU or Security Hotfix Detected.
 		Security Update for Exchange Server 2019 Cumulative Update 11 (KB5007409)
+
 #### Security Vulnerability
-	All known security issues in this version of the script passed.
+	Security Vulnerability: Download Domains are not configured. You should configure them to be protected against CVE-2021-1730.
+		Configuration instructions: https://aka.ms/HC-DownloadDomains
 
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX225332
-	Generation Time: 12/04/2021 11:50:09
+	Generation Time: 12/09/2021 08:02:54
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.014
 	Exchange IU or Security Hotfix Detected.
 		Security Update for Exchange Server 2019 Cumulative Update 11 (KB5007409)
+
 #### Security Vulnerability
-	All known security issues in this version of the script passed.
+	Security Vulnerability: Download Domains are not configured. You should configure them to be protected against CVE-2021-1730.
+		Configuration instructions: https://aka.ms/HC-DownloadDomains
 
 ---
