@@ -6,10 +6,10 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 
 ### Exchange Information
 	Name: Frontend FRD-AX223511
-	Generation Time: 01/13/2022 08:09:11
+	Generation Time: 01/20/2022 08:09:24
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.014
-	Exchange IU or Security Hotfix Detected.
+	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 11 (KB5007409)
 	Known Issue Detected: True
 		This build has a known issue(s) which may or may not have been addressed. See the below link(s) for more information.
@@ -30,10 +30,10 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX225331
-	Generation Time: 01/13/2022 08:01:23
+	Generation Time: 01/20/2022 08:01:42
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.015
-	Exchange IU or Security Hotfix Detected.
+	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 11 (KB5007409)
 		Security Update for Exchange Server 2019 Cumulative Update 11 (KB5008631)
 
@@ -44,10 +44,10 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX223512
-	Generation Time: 01/13/2022 08:15:38
+	Generation Time: 01/20/2022 08:15:26
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.015
-	Exchange IU or Security Hotfix Detected.
+	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 11 (KB5007409)
 		Security Update for Exchange Server 2019 Cumulative Update 11 (KB5008631)
 
@@ -58,10 +58,10 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX225332
-	Generation Time: 01/13/2022 08:02:54
+	Generation Time: 01/20/2022 08:03:13
 	Version: Exchange 2019 CU11
 	Build Number: 15.02.0986.014
-	Exchange IU or Security Hotfix Detected.
+	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 11 (KB5007409)
 	Known Issue Detected: True
 		This build has a known issue(s) which may or may not have been addressed. See the below link(s) for more information.
