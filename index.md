@@ -6,7 +6,7 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 
 ### Exchange Information
 	Name: Frontend FRD-AX223511
-	Generation Time: 05/26/2022 08:10:33
+	Generation Time: 06/02/2022 08:10:09
 	Version: Exchange 2019 CU12
 	Build Number: 15.02.1118.009
 	Exchange IU or Security Hotfix Detected: 
@@ -19,7 +19,7 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX225331
-	Generation Time: 05/26/2022 08:01:54
+	Generation Time: 06/02/2022 08:01:42
 	Version: Exchange 2019 CU12
 	Build Number: 15.02.1118.009
 	Exchange IU or Security Hotfix Detected: 
@@ -32,7 +32,7 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX223512
-	Generation Time: 05/26/2022 08:17:21
+	Generation Time: 06/02/2022 08:17:04
 	Version: Exchange 2019 CU12
 	Build Number: 15.02.1118.009
 	Exchange IU or Security Hotfix Detected: 
@@ -45,7 +45,7 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX225332
-	Generation Time: 05/26/2022 08:03:39
+	Generation Time: 06/02/2022 08:03:24
 	Version: Exchange 2019 CU12
 	Build Number: 15.02.1118.009
 	Exchange IU or Security Hotfix Detected: 
