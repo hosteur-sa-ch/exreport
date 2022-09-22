@@ -6,7 +6,7 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 
 ### Exchange Information
 	Name: Frontend FRD-AX223511
-	Generation Time: 09/15/2022 08:12:22
+	Generation Time: 09/22/2022 08:11:13
 	Version: Exchange 2019 CU12
 	Build Number: 15.02.1118.012
 	Exchange IU or Security Hotfix Detected: 
@@ -18,43 +18,47 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 	Security Vulnerability: Download Domains are not configured. You should configure them to be protected against CVE-2021-1730.
 		Configuration instructions: https://aka.ms/HC-DownloadDomains
 	Security Vulnerability: CVE-2022-24516, CVE-2022-21979, CVE-2022-21980, CVE-2022-24477, CVE-2022-30134
-		Extended Protection should be configured. Current config:
+		Extended Protection isn't configured as expected
 
-        VirtualDirectory                   Value  SupportedValue  ConfigSupported  RequireSSL      ClientCertificate  
-        Default Web Site/API               None   Require         False            False           Ignore             
-        Exchange Back End/API              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/Autodiscover      None   None            True             False           Ignore             
-        Exchange Back End/Autodiscover     None   None            True             True (128-bit)  Ignore             
-        Default Web Site/ECP               None   Require         False            False           Ignore             
-        Exchange Back End/ECP              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/EWS               None   Allow           False            False           Ignore             
-        Exchange Back End/EWS              None   Require         False            True (128-bit)  Ignore             
-        Default Web                        None   Allow           False            False           Ignore             
-        Site/Microsoft-Server-ActiveSync                                                                              
-        Exchange Back                      None   Require         False            True (128-bit)  Ignore             
-        End/Microsoft-Server-ActiveSync                                                                               
-        Default Web Site/OAB               None   Require         False            False           Ignore             
-        Exchange Back End/OAB              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/Powershell        None   Require         False            False           Accept             
-        Exchange Back End/Powershell       None   Require         False            True (128-bit)  Accept             
-        Default Web Site/OWA               None   Require         False            False           Ignore             
-        Exchange Back End/OWA              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/RPC               None   Require         False            False           Ignore             
-        Exchange Back End/RPC              None   Require         False            False           Ignore             
-        Default Web Site/MAPI              None   Require         False            False           Ignore             
-        Exchange Back                      None   Require         False            True (128-bit)  Ignore             
-        End/PushNotifications                                                                                         
-        Exchange Back End/RPCWithCert      None   Require         False            False           Ignore             
-        Exchange Back End/MAPI/emsmdb      None   Require         False            True            Ignore             
-        Exchange Back End/MAPI/nspi        None   Require         False            True            Ignore             
+        Default Web Site       Value  SupportedValue  ConfigSupported  RequireSSL  ClientCertificate  IPFilterEnabled  
+        API                    None   Require         False            False       Ignore             False            
+        Autodiscover           None   None            True             False       Ignore             False            
+        ECP                    None   Require         False            False       Ignore             False            
+        EWS                    None   Allow           False            False       Ignore             False            
+        Microsoft-Server-Acti  None   Allow           False            False       Ignore             False            
+        veSync                                                                                                         
+        OAB                    None   Require         False            False       Ignore             False            
+        Powershell             None   Require         False            False       Accept             False            
+        OWA                    None   Require         False            False       Ignore             False            
+        RPC                    None   Require         False            False       Ignore             False            
+        MAPI                   None   Require         False            False       Ignore             False            
 
 
-	For more information about Extended Protection and how to configure, please read this article: https://aka.ms/HC-ExchangeEPDoc
+
+        Exchange Back End  Value  SupportedValue  ConfigSupported  RequireSSL      ClientCertificate  IPFilterEnabled  
+        API                None   Require         False            True (128-bit)  Ignore             False            
+        Autodiscover       None   None            True             True (128-bit)  Ignore             False            
+        ECP                None   Require         False            True (128-bit)  Ignore             False            
+        EWS                None   Require         False            True (128-bit)  Ignore             False            
+        Microsoft-Server-  None   Require         False            True (128-bit)  Ignore             False            
+        ActiveSync                                                                                                     
+        OAB                None   Require         False            True (128-bit)  Ignore             False            
+        Powershell         None   Require         False            True (128-bit)  Accept             False            
+        OWA                None   Require         False            True (128-bit)  Ignore             False            
+        RPC                None   Require         False            False           Ignore             False            
+        PushNotifications  None   Require         False            True (128-bit)  Ignore             False            
+        RPCWithCert        None   Require         False            False           Ignore             False            
+        MAPI/emsmdb        None   Require         False            True            Ignore             False            
+        MAPI/nspi          None   Require         False            True            Ignore             False            
+
+
+	For more information about Extended Protection and how to configure, please read this article:
+	https://aka.ms/HC-ExchangeEPDoc
 
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX225331
-	Generation Time: 09/15/2022 08:02:32
+	Generation Time: 09/22/2022 08:02:40
 	Version: Exchange 2019 CU12
 	Build Number: 15.02.1118.012
 	Exchange IU or Security Hotfix Detected: 
@@ -66,43 +70,47 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 	Security Vulnerability: Download Domains are not configured. You should configure them to be protected against CVE-2021-1730.
 		Configuration instructions: https://aka.ms/HC-DownloadDomains
 	Security Vulnerability: CVE-2022-24516, CVE-2022-21979, CVE-2022-21980, CVE-2022-24477, CVE-2022-30134
-		Extended Protection should be configured. Current config:
+		Extended Protection isn't configured as expected
 
-        VirtualDirectory                   Value  SupportedValue  ConfigSupported  RequireSSL      ClientCertificate  
-        Default Web Site/API               None   Require         False            False           Ignore             
-        Exchange Back End/API              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/Autodiscover      None   None            True             False           Ignore             
-        Exchange Back End/Autodiscover     None   None            True             True (128-bit)  Ignore             
-        Default Web Site/ECP               None   Require         False            False           Ignore             
-        Exchange Back End/ECP              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/EWS               None   Allow           False            False           Ignore             
-        Exchange Back End/EWS              None   Require         False            True (128-bit)  Ignore             
-        Default Web                        None   Allow           False            False           Ignore             
-        Site/Microsoft-Server-ActiveSync                                                                              
-        Exchange Back                      None   Require         False            True (128-bit)  Ignore             
-        End/Microsoft-Server-ActiveSync                                                                               
-        Default Web Site/OAB               None   Require         False            False           Ignore             
-        Exchange Back End/OAB              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/Powershell        None   Require         False            False           Ignore             
-        Exchange Back End/Powershell       None   Require         False            True (128-bit)  Accept             
-        Default Web Site/OWA               None   Require         False            False           Ignore             
-        Exchange Back End/OWA              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/RPC               None   Require         False            False           Ignore             
-        Exchange Back End/RPC              None   Require         False            False           Ignore             
-        Default Web Site/MAPI              None   Require         False            False           Ignore             
-        Exchange Back                      None   Require         False            True (128-bit)  Ignore             
-        End/PushNotifications                                                                                         
-        Exchange Back End/RPCWithCert      None   Require         False            False           Ignore             
-        Exchange Back End/MAPI/emsmdb      None   Require         False            True            Ignore             
-        Exchange Back End/MAPI/nspi        None   Require         False            True            Ignore             
+        Default Web Site       Value  SupportedValue  ConfigSupported  RequireSSL  ClientCertificate  IPFilterEnabled  
+        API                    None   Require         False            False       Ignore             False            
+        Autodiscover           None   None            True             False       Ignore             False            
+        ECP                    None   Require         False            False       Ignore             False            
+        EWS                    None   Allow           False            False       Ignore             False            
+        Microsoft-Server-Acti  None   Allow           False            False       Ignore             False            
+        veSync                                                                                                         
+        OAB                    None   Require         False            False       Ignore             False            
+        Powershell             None   Require         False            False       Ignore             False            
+        OWA                    None   Require         False            False       Ignore             False            
+        RPC                    None   Require         False            False       Ignore             False            
+        MAPI                   None   Require         False            False       Ignore             False            
 
 
-	For more information about Extended Protection and how to configure, please read this article: https://aka.ms/HC-ExchangeEPDoc
+
+        Exchange Back End  Value  SupportedValue  ConfigSupported  RequireSSL      ClientCertificate  IPFilterEnabled  
+        API                None   Require         False            True (128-bit)  Ignore             False            
+        Autodiscover       None   None            True             True (128-bit)  Ignore             False            
+        ECP                None   Require         False            True (128-bit)  Ignore             False            
+        EWS                None   Require         False            True (128-bit)  Ignore             False            
+        Microsoft-Server-  None   Require         False            True (128-bit)  Ignore             False            
+        ActiveSync                                                                                                     
+        OAB                None   Require         False            True (128-bit)  Ignore             False            
+        Powershell         None   Require         False            True (128-bit)  Accept             False            
+        OWA                None   Require         False            True (128-bit)  Ignore             False            
+        RPC                None   Require         False            False           Ignore             False            
+        PushNotifications  None   Require         False            True (128-bit)  Ignore             False            
+        RPCWithCert        None   Require         False            False           Ignore             False            
+        MAPI/emsmdb        None   Require         False            True            Ignore             False            
+        MAPI/nspi          None   Require         False            True            Ignore             False            
+
+
+	For more information about Extended Protection and how to configure, please read this article:
+	https://aka.ms/HC-ExchangeEPDoc
 
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX223512
-	Generation Time: 09/15/2022 08:19:58
+	Generation Time: 09/22/2022 08:17:11
 	Version: Exchange 2019 CU12
 	Build Number: 15.02.1118.012
 	Exchange IU or Security Hotfix Detected: 
@@ -114,43 +122,47 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 	Security Vulnerability: Download Domains are not configured. You should configure them to be protected against CVE-2021-1730.
 		Configuration instructions: https://aka.ms/HC-DownloadDomains
 	Security Vulnerability: CVE-2022-24516, CVE-2022-21979, CVE-2022-21980, CVE-2022-24477, CVE-2022-30134
-		Extended Protection should be configured. Current config:
+		Extended Protection isn't configured as expected
 
-        VirtualDirectory                   Value  SupportedValue  ConfigSupported  RequireSSL      ClientCertificate  
-        Default Web Site/API               None   Require         False            False           Ignore             
-        Exchange Back End/API              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/Autodiscover      None   None            True             False           Ignore             
-        Exchange Back End/Autodiscover     None   None            True             True (128-bit)  Ignore             
-        Default Web Site/ECP               None   Require         False            False           Ignore             
-        Exchange Back End/ECP              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/EWS               None   Allow           False            False           Ignore             
-        Exchange Back End/EWS              None   Require         False            True (128-bit)  Ignore             
-        Default Web                        None   Allow           False            False           Ignore             
-        Site/Microsoft-Server-ActiveSync                                                                              
-        Exchange Back                      None   Require         False            True (128-bit)  Ignore             
-        End/Microsoft-Server-ActiveSync                                                                               
-        Default Web Site/OAB               None   Require         False            False           Ignore             
-        Exchange Back End/OAB              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/Powershell        None   Require         False            False           Accept             
-        Exchange Back End/Powershell       None   Require         False            True (128-bit)  Accept             
-        Default Web Site/OWA               None   Require         False            False           Ignore             
-        Exchange Back End/OWA              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/RPC               None   Require         False            False           Ignore             
-        Exchange Back End/RPC              None   Require         False            False           Ignore             
-        Default Web Site/MAPI              None   Require         False            False           Ignore             
-        Exchange Back                      None   Require         False            True (128-bit)  Ignore             
-        End/PushNotifications                                                                                         
-        Exchange Back End/RPCWithCert      None   Require         False            False           Ignore             
-        Exchange Back End/MAPI/emsmdb      None   Require         False            True            Ignore             
-        Exchange Back End/MAPI/nspi        None   Require         False            True            Ignore             
+        Default Web Site       Value  SupportedValue  ConfigSupported  RequireSSL  ClientCertificate  IPFilterEnabled  
+        API                    None   Require         False            False       Ignore             False            
+        Autodiscover           None   None            True             False       Ignore             False            
+        ECP                    None   Require         False            False       Ignore             False            
+        EWS                    None   Allow           False            False       Ignore             False            
+        Microsoft-Server-Acti  None   Allow           False            False       Ignore             False            
+        veSync                                                                                                         
+        OAB                    None   Require         False            False       Ignore             False            
+        Powershell             None   Require         False            False       Accept             False            
+        OWA                    None   Require         False            False       Ignore             False            
+        RPC                    None   Require         False            False       Ignore             False            
+        MAPI                   None   Require         False            False       Ignore             False            
 
 
-	For more information about Extended Protection and how to configure, please read this article: https://aka.ms/HC-ExchangeEPDoc
+
+        Exchange Back End  Value  SupportedValue  ConfigSupported  RequireSSL      ClientCertificate  IPFilterEnabled  
+        API                None   Require         False            True (128-bit)  Ignore             False            
+        Autodiscover       None   None            True             True (128-bit)  Ignore             False            
+        ECP                None   Require         False            True (128-bit)  Ignore             False            
+        EWS                None   Require         False            True (128-bit)  Ignore             False            
+        Microsoft-Server-  None   Require         False            True (128-bit)  Ignore             False            
+        ActiveSync                                                                                                     
+        OAB                None   Require         False            True (128-bit)  Ignore             False            
+        Powershell         None   Require         False            True (128-bit)  Accept             False            
+        OWA                None   Require         False            True (128-bit)  Ignore             False            
+        RPC                None   Require         False            False           Ignore             False            
+        PushNotifications  None   Require         False            True (128-bit)  Ignore             False            
+        RPCWithCert        None   Require         False            False           Ignore             False            
+        MAPI/emsmdb        None   Require         False            True            Ignore             False            
+        MAPI/nspi          None   Require         False            True            Ignore             False            
+
+
+	For more information about Extended Protection and how to configure, please read this article:
+	https://aka.ms/HC-ExchangeEPDoc
 
 ---
 ### Exchange Information
 	Name: Frontend FRD-AX225332
-	Generation Time: 09/15/2022 08:04:45
+	Generation Time: 09/22/2022 08:05:02
 	Version: Exchange 2019 CU12
 	Build Number: 15.02.1118.012
 	Exchange IU or Security Hotfix Detected: 
@@ -162,37 +174,41 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 	Security Vulnerability: Download Domains are not configured. You should configure them to be protected against CVE-2021-1730.
 		Configuration instructions: https://aka.ms/HC-DownloadDomains
 	Security Vulnerability: CVE-2022-24516, CVE-2022-21979, CVE-2022-21980, CVE-2022-24477, CVE-2022-30134
-		Extended Protection should be configured. Current config:
+		Extended Protection isn't configured as expected
 
-        VirtualDirectory                   Value  SupportedValue  ConfigSupported  RequireSSL      ClientCertificate  
-        Default Web Site/API               None   Require         False            False           Ignore             
-        Exchange Back End/API              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/Autodiscover      None   None            True             False           Ignore             
-        Exchange Back End/Autodiscover     None   None            True             True (128-bit)  Ignore             
-        Default Web Site/ECP               None   Require         False            False           Ignore             
-        Exchange Back End/ECP              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/EWS               None   Allow           False            False           Ignore             
-        Exchange Back End/EWS              None   Require         False            True (128-bit)  Ignore             
-        Default Web                        None   Allow           False            False           Ignore             
-        Site/Microsoft-Server-ActiveSync                                                                              
-        Exchange Back                      None   Require         False            True (128-bit)  Ignore             
-        End/Microsoft-Server-ActiveSync                                                                               
-        Default Web Site/OAB               None   Require         False            False           Ignore             
-        Exchange Back End/OAB              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/Powershell        None   Require         False            False           Accept             
-        Exchange Back End/Powershell       None   Require         False            True (128-bit)  Accept             
-        Default Web Site/OWA               None   Require         False            False           Ignore             
-        Exchange Back End/OWA              None   Require         False            True (128-bit)  Ignore             
-        Default Web Site/RPC               None   Require         False            False           Ignore             
-        Exchange Back End/RPC              None   Require         False            False           Ignore             
-        Default Web Site/MAPI              None   Require         False            False           Ignore             
-        Exchange Back                      None   Require         False            True (128-bit)  Ignore             
-        End/PushNotifications                                                                                         
-        Exchange Back End/RPCWithCert      None   Require         False            False           Ignore             
-        Exchange Back End/MAPI/emsmdb      None   Require         False            True            Ignore             
-        Exchange Back End/MAPI/nspi        None   Require         False            True            Ignore             
+        Default Web Site       Value  SupportedValue  ConfigSupported  RequireSSL  ClientCertificate  IPFilterEnabled  
+        API                    None   Require         False            False       Ignore             False            
+        Autodiscover           None   None            True             False       Ignore             False            
+        ECP                    None   Require         False            False       Ignore             False            
+        EWS                    None   Allow           False            False       Ignore             False            
+        Microsoft-Server-Acti  None   Allow           False            False       Ignore             False            
+        veSync                                                                                                         
+        OAB                    None   Require         False            False       Ignore             False            
+        Powershell             None   Require         False            False       Accept             False            
+        OWA                    None   Require         False            False       Ignore             False            
+        RPC                    None   Require         False            False       Ignore             False            
+        MAPI                   None   Require         False            False       Ignore             False            
 
 
-	For more information about Extended Protection and how to configure, please read this article: https://aka.ms/HC-ExchangeEPDoc
+
+        Exchange Back End  Value  SupportedValue  ConfigSupported  RequireSSL      ClientCertificate  IPFilterEnabled  
+        API                None   Require         False            True (128-bit)  Ignore             False            
+        Autodiscover       None   None            True             True (128-bit)  Ignore             False            
+        ECP                None   Require         False            True (128-bit)  Ignore             False            
+        EWS                None   Require         False            True (128-bit)  Ignore             False            
+        Microsoft-Server-  None   Require         False            True (128-bit)  Ignore             False            
+        ActiveSync                                                                                                     
+        OAB                None   Require         False            True (128-bit)  Ignore             False            
+        Powershell         None   Require         False            True (128-bit)  Accept             False            
+        OWA                None   Require         False            True (128-bit)  Ignore             False            
+        RPC                None   Require         False            False           Ignore             False            
+        PushNotifications  None   Require         False            True (128-bit)  Ignore             False            
+        RPCWithCert        None   Require         False            False           Ignore             False            
+        MAPI/emsmdb        None   Require         False            True            Ignore             False            
+        MAPI/nspi          None   Require         False            True            Ignore             False            
+
+
+	For more information about Extended Protection and how to configure, please read this article:
+	https://aka.ms/HC-ExchangeEPDoc
 
 ---
