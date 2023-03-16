@@ -6,9 +6,9 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 
 ### Exchange Information
 	Name: Frontend FRD-AX223511.exchange-swiss.ch
-	Generation Time: 03/09/2023 08:14:27
-	Version: Exchange 2019 CU12 Feb23SU
-	Build Number: 15.02.1118.025
+	Generation Time: 03/16/2023 08:13:14
+	Version: Exchange 2019 CU12 Mar23SU
+	Build Number: 15.02.1118.026
 	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5014261)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5015322)
@@ -16,16 +16,12 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5019758)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5022193)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5023038)
-	Known Issue Detected: True
-		This build has a known issue(s) which may or may not have been addressed. See the below link(s) for more information.
-
-		Known Issues with Feb 2023 Security Updates:
-			https://techcommunity.microsoft.com/t5/exchange-team-blog/released-february-2023-exchange-server-security-updates/ba-p/3741058
+		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5024296)
 ### Exchange Information
 	Name: Frontend FRD-AX225331.exchange-swiss.ch
-	Generation Time: 03/09/2023 08:02:44
-	Version: Exchange 2019 CU12 Feb23SU
-	Build Number: 15.02.1118.025
+	Generation Time: 03/16/2023 08:02:57
+	Version: Exchange 2019 CU12 Mar23SU
+	Build Number: 15.02.1118.026
 	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5014261)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5015322)
@@ -33,16 +29,12 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5019758)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5022193)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5023038)
-	Known Issue Detected: True
-		This build has a known issue(s) which may or may not have been addressed. See the below link(s) for more information.
-
-		Known Issues with Feb 2023 Security Updates:
-			https://techcommunity.microsoft.com/t5/exchange-team-blog/released-february-2023-exchange-server-security-updates/ba-p/3741058
+		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5024296)
 ### Exchange Information
 	Name: Frontend FRD-AX223512.exchange-swiss.ch
-	Generation Time: 03/09/2023 08:23:19
-	Version: Exchange 2019 CU12 Feb23SU
-	Build Number: 15.02.1118.025
+	Generation Time: 03/16/2023 08:21:01
+	Version: Exchange 2019 CU12 Mar23SU
+	Build Number: 15.02.1118.026
 	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5014261)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5015322)
@@ -50,16 +42,12 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5019758)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5022193)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5023038)
-	Known Issue Detected: True
-		This build has a known issue(s) which may or may not have been addressed. See the below link(s) for more information.
-
-		Known Issues with Feb 2023 Security Updates:
-			https://techcommunity.microsoft.com/t5/exchange-team-blog/released-february-2023-exchange-server-security-updates/ba-p/3741058
+		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5024296)
 ### Exchange Information
 	Name: Frontend FRD-AX225332.exchange-swiss.ch
-	Generation Time: 03/09/2023 08:05:15
-	Version: Exchange 2019 CU12 Feb23SU
-	Build Number: 15.02.1118.025
+	Generation Time: 03/16/2023 08:05:27
+	Version: Exchange 2019 CU12 Mar23SU
+	Build Number: 15.02.1118.026
 	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5014261)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5015322)
@@ -67,8 +55,4 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5019758)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5022193)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5023038)
-	Known Issue Detected: True
-		This build has a known issue(s) which may or may not have been addressed. See the below link(s) for more information.
-
-		Known Issues with Feb 2023 Security Updates:
-			https://techcommunity.microsoft.com/t5/exchange-team-blog/released-february-2023-exchange-server-security-updates/ba-p/3741058
+		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5024296)
