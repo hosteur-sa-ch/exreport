@@ -6,9 +6,9 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 
 ### Exchange Information
 	Name: Frontend FRD-AX223511.exchange-swiss.ch
-	Generation Time: 08/10/2023 08:15:38
-	Version: Exchange 2019 CU12 Jun23SU
-	Build Number: 15.02.1118.030
+	Generation Time: 08/17/2023 08:12:53
+	Version: Exchange 2019 CU12 Aug23SUv2
+	Build Number: 15.02.1118.037
 	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5014261)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5015322)
@@ -18,12 +18,12 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5023038)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5024296)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5026261)
-		Not on the latest SU. More Information: https://aka.ms/HC-ExBuilds
+		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5030524)
 ### Exchange Information
 	Name: Frontend FRD-AX225331.exchange-swiss.ch
-	Generation Time: 08/10/2023 08:02:37
-	Version: Exchange 2019 CU12 Aug23SU
-	Build Number: 15.02.1118.036
+	Generation Time: 08/17/2023 08:02:36
+	Version: Exchange 2019 CU12 Aug23SUv2
+	Build Number: 15.02.1118.037
 	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5014261)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5015322)
@@ -34,11 +34,12 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5024296)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5026261)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5029388)
+		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5030524)
 ### Exchange Information
 	Name: Frontend FRD-AX223512.exchange-swiss.ch
-	Generation Time: 08/10/2023 08:24:24
-	Version: Exchange 2019 CU12 Jun23SU
-	Build Number: 15.02.1118.030
+	Generation Time: 08/17/2023 08:20:23
+	Version: Exchange 2019 CU12 Aug23SUv2
+	Build Number: 15.02.1118.037
 	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5014261)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5015322)
@@ -48,12 +49,12 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5023038)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5024296)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5026261)
-		Not on the latest SU. More Information: https://aka.ms/HC-ExBuilds
+		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5030524)
 ### Exchange Information
 	Name: Frontend FRD-AX225332.exchange-swiss.ch
-	Generation Time: 08/10/2023 08:07:30
-	Version: Exchange 2019 CU12 Aug23SU
-	Build Number: 15.02.1118.036
+	Generation Time: 08/17/2023 08:05:08
+	Version: Exchange 2019 CU12 Aug23SUv2
+	Build Number: 15.02.1118.037
 	Exchange IU or Security Hotfix Detected: 
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5014261)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5015322)
@@ -64,3 +65,4 @@ Dernier rapport de securité de la plateforme Exchange Hosteur
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5024296)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5026261)
 		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5029388)
+		Security Update for Exchange Server 2019 Cumulative Update 12 (KB5030524)
